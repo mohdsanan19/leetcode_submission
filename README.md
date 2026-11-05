@@ -5,4 +5,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/mohdsanan19/leetcode_submission/tree/master/0485-max-consecutive-ones) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mohdsanan19/leetcode_submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Math
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mohdsanan19/leetcode_submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
