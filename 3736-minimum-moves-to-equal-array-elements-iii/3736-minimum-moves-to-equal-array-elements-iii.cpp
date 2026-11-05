@@ -9,10 +9,7 @@ public:
             }
         }
         for(int j=0;j<nums.size();j++){
-            while(nums[j] < max){
-                nums[j] += 1;
-                count++;
-            }
+            count += max-nums[j];
         }
         return count;
     }
