@@ -6,10 +6,9 @@ public:
         int j= n;
         
         while(i<n && j<nums.size()){
-            ans.push_back(nums[i]);
-            ans.push_back(nums[j]);
-            i++;
-            j++;
+            ans.push_back(nums[i++]);
+            ans.push_back(nums[j++]);
+
         }
         return ans;
     }
